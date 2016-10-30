@@ -1,3 +1,16 @@
-# Machine_Learning_in_Action
+# Machine Learning Algorithms Implemented by Python
 
-Each file name represents one algorithm rewritten by Pyhton.
+Rewrote algorithms disucssed in **Machine Learning in Action**, including:
+
+- FP growth
+- adaboost
+- apriori algorithm
+- decision trees
+- k means clustering
+- k nearest neighbors
+- logistic regression
+- naive Bayes
+- principal component analysis
+- regression
+- singular value decomposition
+- tree based regression
